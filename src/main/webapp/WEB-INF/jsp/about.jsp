@@ -85,7 +85,6 @@
                         </div>
                         <div class="testimonial__author__text">
                             <h5>Thanh Phương</h5>
-                            <p>Store Owner</p>
                         </div>
                     </div>
                 </div>
